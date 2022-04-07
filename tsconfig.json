@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es2021",
+    "strict": false,
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "noImplicitAny": false,
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./src/**/*"]
+}
